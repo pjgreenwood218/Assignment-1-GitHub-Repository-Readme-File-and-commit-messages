@@ -1,5 +1,4 @@
 # Assignment-1-GitHub-Repository-Readme-File-and-commit-messages
-MSc computer skills and coding assignment 1
 
 ## Management/visulatisation of heathcare data using SQL tables:
 In this MSc assignment we have been provided with data files for hospitals, patients, doctors and prescriptions. This project aims to visualise the healthcare related dated stored within provided CSV files via the creation of SQL tables and generating SQL queries. 
