@@ -25,7 +25,7 @@ As these are relational databases primary and foreign keys have been included in
 ## Rationale for SQL queries:
 SQL queries were created for tables named: Hospitals, Patients, Doctors and Prescriptions. 
 
-The code used for SQL queries is available here:
+The code used for SQL queries is available here:https://github.com/pjgreenwood218/Assignment-1-GitHub-Repository-Readme-File-and-commit-messages/blob/main/Generating%20queries%20in%20SQL.docx
 
 These queries can provide real world data driven insights: Staffing overview (which doctors work at a given hospital), reviewing a patients medical history (list of prescriptions for given patient), workload tracking (number of prescriptions performed by a doctor). 
 
