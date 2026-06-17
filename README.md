@@ -20,7 +20,7 @@ The precription.cvs file contains the following information represented in SQL t
 
 The code used to create SQL tables is available here: https://github.com/pjgreenwood218/Assignment-1-GitHub-Repository-Readme-File-and-commit-messages/blob/main/Create%20Tables%20in%20mysql.docx
 
-As these are relational databases primary and foreign keys have been included in the code for each SQL table. The summary of relationships is depicted in the entity relationship diagram: 
+As these are relational databases primary and foreign keys have been included in the code for each SQL table. The summary of relationships is depicted in the entity relationship diagram: https://github.com/pjgreenwood218/Assignment-1-GitHub-Repository-Readme-File-and-commit-messages/blob/main/ERD.docx
 
 ## Rationale for SQL queries:
 SQL queries were created for tables named: Hospitals, Patients, Doctors and Prescriptions. 
