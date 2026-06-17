@@ -3,7 +3,7 @@ In this MSc assignment we have been provided with data files for hospitals, pati
 
 A link to the full respository for assignment 1 is available here: https://github.com/pjgreenwood218/Assignment-1-GitHub-Repository-Readme-File-and-commit-messages
 
-To start I created a flow chart to decompose the assignment to smaller management tasks, please view: 
+To start I created a flow chart to decompose the assignment to smaller management tasks, please view: https://github.com/pjgreenwood218/Assignment-1-GitHub-Repository-Readme-File-and-commit-messages/blob/main/Decomposition%20of%20Assignment%201.docx
 
 The export of the SQL database is available: 
 
