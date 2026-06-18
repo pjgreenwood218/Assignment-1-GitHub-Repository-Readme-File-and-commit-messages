@@ -29,5 +29,3 @@ The code used for SQL queries is available here:https://github.com/pjgreenwood21
 
 These queries can provide real world data driven insights: Staffing overview (which doctors work at a given hospital), reviewing a patients medical history (list of prescriptions for given patient), workload tracking (number of prescriptions performed by a doctor). 
 
-## Generative AI declaration 
-The assignment is AI assisted,  AI declaration is available (INSERT LINK HERE)
