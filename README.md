@@ -7,6 +7,8 @@ To start I created a flow chart to decompose the assignment to smaller managemen
 
 The export of the SQL database is available: https://github.com/pjgreenwood218/Assignment-1-GitHub-Repository-Readme-File-and-commit-messages/blob/main/mysql%20export_file.sql
 
+All code used in project is available here: https://github.com/pjgreenwood218/Assignment-1-GitHub-Repository-Readme-File-and-commit-messages/blob/main/Code%20used%20in%20project.docx
+
 ## Description of files, databases and tables used:
 The following files used for this project are stored in ~/assessments/hpdm206Z/assessment1: hospitals.cvs, patients.cvs, doctors.cvs and prescriptions.cvs.
 
